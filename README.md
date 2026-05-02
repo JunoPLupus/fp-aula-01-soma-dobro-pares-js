@@ -1,5 +1,7 @@
 # Implementando Funções para Processamento de Dados com Programação Funcional e Estruturada em JS
 
+[![Build Status](https://github.com/JunoPLupus/fp-aula-01-soma-dobro-pares-js/actions/workflows/nodejs.yml/badge.svg)](https://github.com/JunoPLupus/fp-aula-01-soma-dobro-pares-js/actions/workflows/nodejs.yml)
+
 Este é um projeto [Node.js](http://nodejs.org), logo usa JavaScript no backend. 
 O projeto fornece apenas a estrutura básica para você implementar a soma do dobro de um conjunto de números pares em duas implementações diferentes: uma funcional e uma estruturada (procedural).
 
